@@ -13,7 +13,7 @@ Note: The frontend of the bridges, can be found [here](https://github.com/starkw
 
 If you are not familiar with Cairo, you can find more details about it [here](https://www.cairo-lang.org/).
 
-## Main module
+## Main module for
 
 **src/starkware/starknet/apps/starkgate**:
 The Cairo and Solidity contracts of the bridge, StarkNet's ERC20 token contract and corresponding tests.
